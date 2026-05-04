@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models
+*.zip
+*.csv
+*.pkl
+*.h5
+data/
+models/
